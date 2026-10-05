@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+upload/merged/
+upload/execution_time/
+upload/n7_temp/
